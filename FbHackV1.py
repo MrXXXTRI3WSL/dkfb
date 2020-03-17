@@ -61,14 +61,14 @@ logo ="""
 \033[1;96m█████████
 \033[1;96m█▄█████▄█      
 \033[1;96m█ ▼▼▼▼▼  _-_-- ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;96m█.    _-_-- -_ --  Mr.Thunder
+\033[1;96m█.    _-_-- -_ --  Mr.XXXTRI3WSL
 \033[1;96m█ ▲▲▲▲▲   -_ -«============✧==========»
 \033[1;96m█████████   Wellcome To Tools V1.7
 \033[1;96m ██ ██       VIP-V3 by Hunters Gaming04                    
 \033[1;93m╔═══════════════════════════════════════════╗
-\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr_Thunder \033[1;93m                   ║
-\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m089662144951\033[0m \033[1;93m                  ║
-\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mindonesiancyberteams@gmail.com\033[0m \033[1;93m       ║
+\033[1;93m║\033[1;96m¤ \033[1;93mAuthor  \033[1;93m: \033[1;93mMr_XXXTRI3WSL \033[1;93m                   ║
+\033[1;93m║\033[1;96m¤ \033[1;93mWa  \033[1;93m    : \033[1;93m\033[4m088219478540\033[0m \033[1;93m                  ║
+\033[1;93m║\033[1;96m¤ \033[1;93mEmail  \033[1;93m : \033[1;93m\033[4mmr.xxxtri3wsl@gmail.com\033[0m \033[1;93m       ║
 \033[1;93m╚═══════════════════════════════════════════╝
 """
 
@@ -102,7 +102,7 @@ listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 name = 'Mr'
-paws = 'Thunder'
+paws = 'XXXTRI3WSL'
 
 def an():
     os.system('reset')
@@ -119,8 +119,8 @@ def an():
         time.sleep(3)
         print 'Biasanya yg gak Sabaran Gak Akan Work'
         time.sleep(3)
-        os.system('xdg-open https://www.youtube.com/ ')
-        print 'User = Mr  dan   Pasw = Thunder '
+        os.system('xdg-open https://www.youtube.com/channel/UC3Rt_XrQd-pf4-e513J15EQ ')
+        print 'User = Mr  dan   Pasw = XXXTRI3WSL '
         time.sleep(5)
         print 'Masukan User dan Pass nya ?'
         uname = raw_input('\n\x1b[32;1m[\x1b[33;1m#\x1b[32;1m]\x1b[37;1m Username : ')
